@@ -79,5 +79,12 @@ fields:
   type: text
   hidden: true
   default: home
+- type: color
+  name: sdfsfsdfsdfsdf
+  config:
+    color_format: Hex
+  label: sdfsf
+  description: sdfsfdsfd
+  default: "#7D1F1F"
 pages:
 - index.md
