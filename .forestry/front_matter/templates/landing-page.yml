@@ -1,6 +1,6 @@
 ---
 label: landing-page
-hide_body: true
+hide_body: false
 is_partial: false
 fields:
 - name: title
@@ -86,5 +86,9 @@ fields:
   label: sdfsf
   description: sdfsfdsfd
   default: "#7D1F1F"
+- type: text
+  name: asdadasdadsa
+  label: asdad
+  description: adsadsads
 pages:
 - index.md
